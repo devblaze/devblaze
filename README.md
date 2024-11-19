@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a AI Issue Generator and an MMORPG in Unity<br>I'm looking to collaborate on both projects
+I'm currently working on an AI Issue Generator and an MMORPG in Unity<br>I'm looking to collaborate on both projects
 
 
 ## 🌐 Socials:
